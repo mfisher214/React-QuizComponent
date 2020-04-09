@@ -14,7 +14,8 @@ class Quiz extends Component
   {
     return (
     <div>
-      Quiz
+      <div class="QuizQuestion">
+      </div>
     </div>
   )
   }
